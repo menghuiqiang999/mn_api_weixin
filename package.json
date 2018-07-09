@@ -1,0 +1,29 @@
+{
+  "name": "mn_api_weixin",
+  "version": "1.0.0",
+  "description": "weixin api from moonlight",
+  "main": "weixin.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "mn_fun_comm_v2": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/menghuiqiang999/mn_api_weixin.git"
+  },
+  "keywords": [
+    "mn_api_weixin"
+  ],
+  "author": "moonlight",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/menghuiqiang999/mn_api_weixin/issues"
+  },
+  "homepage": "https://github.com/menghuiqiang999/mn_api_weixin#readme"
+}
